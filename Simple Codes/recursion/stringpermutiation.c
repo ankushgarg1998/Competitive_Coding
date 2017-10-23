@@ -13,7 +13,7 @@ void main()
   {
   int i,n;
   char str[10];
-  printf("Enter a string without repetetion :");
+  printf("Enter a string without repetition :");
   scanf("%s", str);
   printf("%s %d\n\n", str, strlen(str));
   permut(str, 0, strlen(str)-1);
