@@ -1,0 +1,15 @@
+- Representation
+    - Edge List
+    - Adjacency Matrix
+    - Adjacency List
+- Traversal
+    - BFS
+    - DFS
+- Minimum Spanning Tree
+    - Kruskal
+    - Prim
+- Shortest Path
+    - SSSP
+    - Dijkstra
+    - Bellman Ford
+    - Floyd Warshall
