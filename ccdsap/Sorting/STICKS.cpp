@@ -16,14 +16,18 @@ int main() {
         for(; i>0; i--) {
             if(a[i] > 1) {
                 first = i;
+                if(a[i] > 3)
+                    second = i;
                 --i;
                 break;
             }
         }
-        for(; i>0; i--) {
-            if(a[i] > 1) {
-                second = i;
-                break;
+        if(second == 0) {
+            for(; i>0; i--) {
+                if(a[i] > 1) {
+                    second = i;
+                    break;
+                }
             }
         }
         cout<<(first*second == 0 ? -1: first*second)<<"\n";
