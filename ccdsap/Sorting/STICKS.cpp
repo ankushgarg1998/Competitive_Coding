@@ -20,21 +20,13 @@ int main() {
                 break;
             }
         }
-        if(i == 0) {
-            cout<<"-1\n";
-            continue;
-        }
         for(; i>0; i--) {
             if(a[i] > 1) {
                 second = i;
                 break;
             }
         }
-        if(i == 0) {
-            cout<<"-1\n";
-            continue;
-        }
-        cout<<first*second<<"\n";
+        cout<<(first*second == 0 ? -1: first*second)<<"\n";
     }
     return 0;
 }
