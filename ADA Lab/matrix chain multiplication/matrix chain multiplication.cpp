@@ -23,7 +23,6 @@ int main()
     loop(l, 1, n) {
         loop(i, 0, n-l) {
             int j = i+l;
-            // cout<<i<<" "<<j<<"\n";
             m[i][j] = INT_MAX;
             loop(k, i, j) {
                 int q = m[i][k] + m[k+1][j] + (p[i]*p[k+1]*p[j+1]);
