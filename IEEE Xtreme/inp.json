@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "authors": [
+            {
+                "author_order": 1,
+                "affiliation": "",
+                "full_name": "Echo"
+            },
+            {
+                "author_order": 2,
+                "affiliation": "",
+                "full_name": "Bravo"
+            },
+            {
+                "author_order": 3,
+                "affiliation": "",
+                "full_name": "Alfa"
+            }
+        ]
+    },
+    "title": "Article Title 1",
+    "article_number": "1",
+    "publication_title": "Publication Title 1",
+    "publication_number": "7",
+    "citing_paper_count": 9,
+    "publisher": "IEEE"
+}
+
