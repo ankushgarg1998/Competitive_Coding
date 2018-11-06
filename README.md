@@ -8,13 +8,14 @@ Just as it looks, this contains my history (still ongoing) of Competitive Coding
 Just for the same reason people write a diary/blog. It's like maintaining a photo album. You don't know if you'll ever need it, but it's nice to keep memories.
 
 
-## ANNUAL GLOBAL CONTESTS
+## ANNUAL CONTESTS
 
 ### ACM ICPC
 **YEAR: 2018 *(The Lannisters)***
 - Online Round
     - *All India Rank*: ***404***
     - *College Rank*: ***1***
+---
 
 ### Codechef Snackdown
 **YEAR: 2018 *(The Lannisters)***
@@ -26,19 +27,15 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 - QUALIFIER (*Global Rank*: ***3101***) -  ✔️ Qualified
 - ROUND 1-A (*Global Rank*: ***3887***) -  ✔️ Qualified
 - ROUND 1-A (*Global Rank*: ***1764***) -  ➖ Eliminiated
+---
 
 ### Facebook Hacker Cup
 **YEAR: 2018**
 - QUALIFIER (*Global Rank*: ***769***) -  ✔️ Qualified
 - ROUND 1 (*Global Rank*: ***1989***) -  ✔️ Qualified
 - ROUND 2 (*Global Rank*: ***412***) -  ➖ Eliminiated  🔥 But won a T-Shirt.
-    
-### IEEE Xtreme
-**YEAR: 2018 *(HustleFluff)***
-- Online Round
-    - *Global Rank*: ***469***
-    - *All India Rank*: ***44***
-    
+---
+
 ### Google Code Jam
 **YEAR: 2018**
 - QUALIFIER -  ✔️ Qualified
@@ -50,10 +47,23 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 **YEAR: 2017**
 - QUALIFIER (*Global Rank*: ***8372***) -  ✔️ Qualified
 - ROUND 1  ➖ Eliminiated
+---
+
+### IEEE Xtreme
+**YEAR: 2018 *(HustleFluff)***
+- Online Round
+    - *Global Rank*: ***469***
+    - *All India Rank*: ***44***
+---
+
+### InterviewBit CodersBit
+**YEAR: 2018**
+- College Round (*College Rank*: ***2***)
+- Finale (*All India Rank*: ***373***)
+---
 
 
-
-## ONLINE CODING WEBSITES
+## ONLINE COMPETITIVE CODING WEBSITES
 
 ### CodeChef
 ### CodeForces
@@ -61,7 +71,6 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 
 ## OTHER CONTESTS
 
-### CodersBit - InterviewBit
 ### Mercari
 ### HackerBlocks
 
