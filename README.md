@@ -25,8 +25,8 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 
 **YEAR: 2017 *(Radon)***
 - QUALIFIER (*Global Rank*: ***3101***) -  ✔️ Qualified
-- ROUND 1-A (*Global Rank*: ***3887***) -  ✔️ Qualified
-- ROUND 1-A (*Global Rank*: ***1764***) -  ➖ Eliminiated
+- ROUND 1-A (*Global Rank*: ***3887***) -  ➖ Not Qualified
+- ROUND 1-B (*Global Rank*: ***1764***) -  ➖ Eliminiated
 ---
 
 ### Facebook Hacker Cup
