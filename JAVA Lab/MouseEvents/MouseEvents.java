@@ -1,3 +1,4 @@
+import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.event.*;
 import java.applet.*;
@@ -20,6 +21,7 @@ public class MouseEvents extends Applet implements MouseListener, MouseMotionLis
         mouseX = 0;
         mouseY = 10;
         msg = "Mouse Clicked";
+        this.setBackground(Color.RED);
         repaint();
     }
 
