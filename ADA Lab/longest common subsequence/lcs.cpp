@@ -32,7 +32,7 @@ int main() {
             if(s1[i-1] == s2[j-1]) {
                 a[i][j] = a[i-1][j-1] + 1;
                 b[i][j] = 'x';
-            } else if(a[i-1][j] >= b[i][j-1]) {
+            } else if(a[i-1][j] >= a[i][j-1]) {
                 a[i][j] = a[i-1][j];
                 b[i][j] = 'u';
             } else {
