@@ -33,7 +33,7 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 **YEAR: 2018**
 - QUALIFIER (*Global Rank*: ***769***) -  ✔️ Qualified
 - ROUND 1 (*Global Rank*: ***1989***) -  ✔️ Qualified
-- ROUND 2 (*Global Rank*: ***412***) -  ➖ Eliminiated  🔥 But won a T-Shirt.
+- ROUND 2 (*Global Rank*: ***412***) -  ➖ Eliminiated  🔥 But won a T-Shirt for being in top 500.
 ---
 
 ### Google Code Jam
