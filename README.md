@@ -12,9 +12,14 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 
 ### ACM ICPC
 **YEAR: 2018 *(The Lannisters)***
-- Online Round
+- Online Round -  ✔️ Qualified for both regional sites.
     - *All India Rank*: ***404***
     - *College Rank*: ***1***
+
+- Regionals (ICPC Kolkata-Kanpur Site 2018)
+    - *All India Rank*: ***55***
+- Regionals (ICPC Amritapuri Site 2018)
+    - *All India Rank*: ***211***
 ---
 
 ### Codechef Snackdown
@@ -66,11 +71,13 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 ## ONLINE COMPETITIVE CODING WEBSITES
 
 ### CodeChef
-- ALOHOMORA(ALORA3) [Jan 20, 2019] #113
+- ALOHOMORA(ALORA3) [Jan 19, 2019] (Rank: 113)
   - Upsolved ALORA3 (Graphs)
 
 
 ### CodeForces
+- #533 [Jan 20, 2019] (Rank: 1792)
+
 ### SPOJ
 
 ## OTHER CONTESTS
@@ -78,7 +85,52 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 ### Mercari
 ### HackerBlocks
 
-## PERSONAL PRACTISE
+## CCDSAP PRACTISE
+### Foundation
+- Arrays
+  - RAINBOWA
+  - COPS
+- Strings
+  - CSUB
+  - LAPIN
+- Stacks & Queues
+  - JNEXT
+  - STPAR
+  - ONP
+  - COMPILER
+  - HISTOGRA
+  - ANARC09A (SPOJ)
+  - Minimal String (Codeforces)
+  - Alternating Current (Codeforces)
+  - Longest Regular Bracket Sequence (Codeforces)
+- Recursion
+  - NOKIA
+  - TRISQ
+  - LFSTACK
+  - FICE
+- Greedy Algorithms
+  - TACHSTCK
+  - CIELRCPT
+  - MAXDIFF
+  - CHEFST
+  - CAKEDOOM
+  - CLETAB
+  - TADELIVE
+  - MANYCHEF
+  - MMPROD
+  - CHEFTMA
+  - STICKS
+- Dynamic Programming
+  - ALTARAY
+  - DELISH
+  - DBOY
+  - XORSUB
+  - GRID
+  - TADELIVE
+- Binary Search
+  - STRSUB
+  - ASHIGIFT
+  - STACKS
+  - DIVSET
 
-### CCDSAP
 ### Data Structures and Algorithms
