@@ -13,8 +13,7 @@
 #define mp(a,b) make_pair(a,b)
 using namespace std;
 
-int main()
-    {
+int main() {
     
     return 0;
-    }
+}
