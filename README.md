@@ -76,7 +76,7 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 
 
 ### CodeForces
-- #533 [Jan 20, 2019] (Rank: 1792)
+- **#533** [Jan 20, 2019] (Rank: 1792)
 
 ### SPOJ
 
