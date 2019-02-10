@@ -76,9 +76,32 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 
 
 ### CodeForces
-- **#533** [Jan 20, 2019] (Rank: 1792)
+- **#533** [DIV2] [Jan 20, 2019] (Rank: 1792)
+- **#534** [DIV2] [Jan 20, 2019] (Rank: 1229)
+  - Interactive problem (unsolved)
+- **#535** [DIV3] [Jan 20, 2019] (Rank: 647)
+  - Upsolved E1
+  - Unsolved E2
+
+
 
 ### SPOJ
+
+- ANARC09A
+- JNEXT
+- UPDATEIT				
+- FARIDA
+- MMASS					
+- FAVDICE
+- MMMGAME					
+- GSS1
+- ONP					
+- HISTOGRA
+- PRATA					
+- HOLI
+- QCJ3					
+- INVCNT
+- STPAR
 
 ## OTHER CONTESTS
 
@@ -132,5 +155,7 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
   - ASHIGIFT
   - STACKS
   - DIVSET
+  - LOWSUM
+  - 
 
 ### Data Structures and Algorithms
