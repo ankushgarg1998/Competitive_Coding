@@ -156,6 +156,9 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
   - STACKS
   - DIVSET
   - LOWSUM
+  - SNTEMPLE
+  - SNAKEEAT
+  - SCHEDULE
   - 
 
 ### Data Structures and Algorithms
