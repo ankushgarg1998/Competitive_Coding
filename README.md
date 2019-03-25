@@ -88,20 +88,22 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 ### SPOJ
 
 - ANARC09A
-- JNEXT
-- UPDATEIT				
+- BAISED
+- BALIFE
 - FARIDA
-- MMASS					
 - FAVDICE
-- MMMGAME					
 - GSS1
-- ONP					
 - HISTOGRA
+- INVCNT
+- JNEXT
+- MMASS					
+- MMMGAME					
+- ONP					
 - PRATA					
 - HOLI
 - QCJ3					
-- INVCNT
 - STPAR
+- UPDATEIT
 
 ## OTHER CONTESTS
 
@@ -143,6 +145,11 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
   - MMPROD
   - CHEFTMA
   - STICKS
+  - BAISED (SPOJ)
+  - BALIFE (SPOJ)
+  - GCJ101BB (SPOJ)
+  - FGFS
+  - LEMUSIC
 - Dynamic Programming
   - ALTARAY
   - DELISH
