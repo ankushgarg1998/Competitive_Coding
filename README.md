@@ -42,6 +42,10 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 ---
 
 ### Google Code Jam
+
+**YEAR 2019**
+- QUALIFIER - ✔️ Qualified
+
 **YEAR: 2018**
 - QUALIFIER -  ✔️ Qualified
 - ROUND 1-A -  ➖ Not Qualified
@@ -69,21 +73,6 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 
 
 ## ONLINE COMPETITIVE CODING WEBSITES
-
-### CodeChef
-- ALOHOMORA(ALORA3) [Jan 19, 2019] (Rank: 113)
-  - Upsolved ALORA3 (Graphs)
-
-
-### CodeForces
-- **#533** [DIV2] [Jan 20, 2019] (Rank: 1792)
-- **#534** [DIV2] [Jan 20, 2019] (Rank: 1229)
-  - Interactive problem (unsolved)
-- **#535** [DIV3] [Jan 20, 2019] (Rank: 647)
-  - Upsolved E1
-  - Unsolved E2
-
-
 
 ### SPOJ
 
@@ -170,5 +159,32 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
   - SNAKEEAT
   - SCHEDULE
   - FORESTGA
+
+## InterviewBit Practice
+- ARRAYS
+  - First Missing Integer
+  - Largest Number
+  - Maximum Non-negative Subarray
+  - Maxsprod
+  - Merge Intervals
+  - Min steps in infinite grid
+  - Noble Integer
+  - Set matrix Zeroes
+- Strings
+  - Amazing Subarrays
+  - Length of the last word
+  - Longest palindrome
+  - Longest Palindromic Substring
+  - Min chars required to make a string palindrome
+  - Palindrome String
+  - Roman to integer
+  - Zig Zag String
+- Maths
+  - Excel Column Number
+  - Greatest Common Divisor
+  - Palindrome Integer
+  - Prime Sum
+- Jumps
+  - To Level 3
 
 ### Data Structures and Algorithms
