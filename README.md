@@ -182,6 +182,7 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 - Maths
   - Excel Column Number
   - Greatest Common Divisor
+  - Grid Unique Paths
   - Palindrome Integer
   - Prime Sum
 - Jumps
