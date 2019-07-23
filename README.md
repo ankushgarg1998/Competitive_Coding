@@ -183,8 +183,15 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
   - Excel Column Number
   - Greatest Common Divisor
   - Grid Unique Paths
+  - Number of Length N and value less than K
   - Palindrome Integer
   - Prime Sum
+  - Rearrange Array
+- Binary Search
+  - Matrix Search
+  - Power Function
+  - Rotated Sorted Array Search
+  - Square Root of Integer
 - Jumps
   - To Level 3
 
