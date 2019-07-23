@@ -7,11 +7,9 @@
 #define init(arr,val) memset(arr,val,sizeof(arr))
 #define loop(i,a,b) for(int i=a;i<b;i++)
 #define loopr(i,a,b) for(int i=a;i>=b;i--)
-#define loops(i,a,b,step) for(int i=a;i<b;i+=step)
-#define looprs(i,a,b,step) for(int i=a;i>=b;i-=step)
-#define pb(a) push_back(a)
-#define mp(a,b) make_pair(a,b)
 using namespace std;
+lli power(lli a, lli p) { lli ans=1; while(p>0) { if(p&1) ans*=a; p>>=1; a*=a; } return ans; }
+lli power(lli a, lli p, lli mod) { lli ans=1; while(p>0) { if(p&1) ans = (ans*a)%mod; p>>=1; a = (a*a)%mod; } return (ans<0? ((ans+mod)%mod): ans); }
 
 int main() {
     
