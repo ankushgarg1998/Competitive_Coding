@@ -195,6 +195,12 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
   - Power Function
   - Rotated Sorted Array Search
   - Square Root of Integer
+- Two Pointers
+  - 3 Sum
+  - Max Continuous Series of 1s
+  - Merge two sorted Lists
+  - Minimize the absolute difference
+  - Remove duplication from Sorted Array
 - Jumps
   - To Level 3
 
