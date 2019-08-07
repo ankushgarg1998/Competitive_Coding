@@ -44,14 +44,13 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 ### Google Code Jam
 
 **YEAR 2019**
-- QUALIFIER - ✔️ Qualified
+- QUALIFIER (*Global Rank*: ***3869***) - ✔️ Qualified
 
 **YEAR: 2018**
-- QUALIFIER -  ✔️ Qualified
-- ROUND 1-A -  ➖ Not Qualified
-- ROUND 1-B -  ➖ Not Qualified
-- ROUND 1-C -  ✔️ Qualified
-- ROUND 2 -  ➖ Eliminiated
+- QUALIFIER (*Global Rank*: ***6251***) -  ✔️ Qualified
+- ROUND 1-A (*Global Rank*: ***4146***) -  ➖ Not Qualified
+- ROUND 1-C (*Global Rank*: ***1473***) -  ✔️ Qualified
+- ROUND 2 (*Global Rank*: ***2296***) -  ➖ Eliminiated
 
 **YEAR: 2017**
 - QUALIFIER (*Global Rank*: ***8372***) -  ✔️ Qualified
@@ -70,6 +69,10 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 - College Round (*College Rank*: ***2***)
 - Finale (*All India Rank*: ***373***)
 ---
+**YEAR: 2019**
+- College Round (*College Rank*: ***2***)
+---
+
 
 
 ## ONLINE COMPETITIVE CODING WEBSITES
