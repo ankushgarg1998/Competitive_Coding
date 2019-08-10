@@ -201,6 +201,12 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
   - Merge two sorted Lists
   - Minimize the absolute difference
   - Remove duplication from Sorted Array
+- Bit Manipulation
+  - Min XOR Value
+  - Number of 1 Bits
+  - Single Number 1
+  - Single Number 2
+- Linked List
 - Jumps
   - To Level 3
 
