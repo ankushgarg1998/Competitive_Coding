@@ -207,6 +207,12 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
   - Single Number 1
   - Single Number 2
 - Linked List
+  - List Cycle
+  - Partition List
+  - Remove Duplicates of sorted list
+  - Reverse Linked List II
+  - Reverse Linked List
+  - Swap List Nodes in pairs
 - Jumps
   - To Level 3
 
