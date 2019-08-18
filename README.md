@@ -213,6 +213,11 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
   - Reverse Linked List II
   - Reverse Linked List
   - Swap List Nodes in pairs
+- Stacks and Queues
+  - Evaluate Expressions
+  - Min Stack
+  - Nearest Smaller Element
+  - Simplify Directory Path
 - Jumps
   - To Level 3
 
