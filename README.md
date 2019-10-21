@@ -58,6 +58,11 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 ---
 
 ### IEEE Xtreme
+**YEAR: 2019 *(HustleFluff)***
+- Online Round
+    - *Global Rank*: ***276***
+    - *All India Rank*: ***26***
+
 **YEAR: 2018 *(HustleFluff)***
 - Online Round
     - *Global Rank*: ***469***
@@ -65,12 +70,12 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
 ---
 
 ### InterviewBit CodersBit
+**YEAR: 2019**
+- College Round (*College Rank*: ***2***)
+
 **YEAR: 2018**
 - College Round (*College Rank*: ***2***)
 - Finale (*All India Rank*: ***373***)
----
-**YEAR: 2019**
-- College Round (*College Rank*: ***2***)
 ---
 
 
@@ -219,6 +224,13 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
   - Min Stack
   - Nearest Smaller Element
   - Simplify Directory Path
+- Backtracking
+  - Gray Code
+  - Letter Phone
+  - N Queens
+  - Permutations
+  - Subset II
+  - Subset
 - Jumps
   - To Level 3
 
