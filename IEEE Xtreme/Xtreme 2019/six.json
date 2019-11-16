@@ -1,0 +1,116 @@
+{
+    "publisher": "IEEE",
+    "title": "Publication Title 5",
+    "contentType": "periodicals",
+    "ieeeCitationCount": "2",
+    "publicationNumber": "15",
+    "paperCitations": {
+        "ieee": [
+            {
+                "order": "1",
+                "articleNumber": "28",
+                "publicationNumber": "1",
+                "year": "2017",
+                "title": "Article 28"
+            },
+            {
+                "order": "2",
+                "articleNumber": "1",
+                "publicationNumber": "1",
+                "year": "2018",
+                "title": "Article 1"
+            },
+            {
+                "order": "3",
+                "articleNumber": "109",
+                "publicationNumber": "4",
+                "year": "2018",
+                "title": "Article 109"
+            },
+            {
+                "order": "4",
+                "articleNumber": "82",
+                "publicationNumber": "1",
+                "year": "2016",
+                "title": "Article 82"
+            },
+            {
+                "order": "5",
+                "articleNumber": "83",
+                "publicationNumber": "1",
+                "year": "2017",
+                "title": "Article 83"
+            },
+            {
+                "order": "6",
+                "articleNumber": "136",
+                "publicationNumber": "4",
+                "year": "2018",
+                "title": "Article 136"
+            },
+            {
+                "order": "7",
+                "articleNumber": "36",
+                "publicationNumber": "1",
+                "year": "2018",
+                "title": "Article 36"
+            },
+            {
+                "order": "8",
+                "articleNumber": "83",
+                "publicationNumber": "4",
+                "year": "2015",
+                "title": "Article 83"
+            },
+            {
+                "order": "9",
+                "articleNumber": "132",
+                "publicationNumber": "3",
+                "year": "2018",
+                "title": "Article 132"
+            },
+            {
+                "order": "10",
+                "articleNumber": "83",
+                "publicationNumber": "4",
+                "year": "2016",
+                "title": "Article 83"
+            },
+            {
+                "order": "11",
+                "articleNumber": "51",
+                "publicationNumber": "4",
+                "year": "2015",
+                "title": "Article 51"
+            },
+            {
+                "order": "12",
+                "articleNumber": "37",
+                "publicationNumber": "2",
+                "year": "2015",
+                "title": "Article 37"
+            },
+            {
+                "order": "13",
+                "articleNumber": "112",
+                "publicationNumber": "1",
+                "year": "2016",
+                "title": "Article 112"
+            },
+            {
+                "order": "14",
+                "articleNumber": "16",
+                "publicationNumber": "1",
+                "year": "2015",
+                "title": "Article 16"
+            },
+            {
+                "order": "15",
+                "articleNumber": "2",
+                "publicationNumber": "3",
+                "year": "2019",
+                "title": "Article 2"
+            }
+        ]
+    }
+}

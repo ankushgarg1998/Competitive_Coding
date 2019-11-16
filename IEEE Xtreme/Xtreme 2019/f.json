@@ -1,0 +1,32 @@
+{
+    "publications": [
+        {
+            "publicationTitle": "Letters on IEEEXtreme",
+            "publicationNumber": "1",
+            "articleCounts": [
+                {
+                    "year": "2017",
+                    "articleCount": "3"
+                },
+                {
+                    "year": "2018",
+                    "articleCount": "6"
+                }
+            ]
+        },
+        {
+            "publicationTitle": "Journal of 24 hours programing",
+            "publicationNumber": "2",
+            "articleCounts": [
+                {
+                    "year": "2017",
+                    "articleCount": "1"
+                },
+                {
+                    "year": "2018",
+                    "articleCount": "4"
+                }
+            ]
+        }
+    ]
+}

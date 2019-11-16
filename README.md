@@ -231,7 +231,39 @@ Just for the same reason people write a diary/blog. It's like maintaining a phot
   - Permutations
   - Subset II
   - Subset
+- Hashing
+  - Anagrams
+  - Colorful Number
+  - Fraction
+  - Longest Substring Without Repeat
+  - Substring Concatenation
 - Jumps
   - To Level 3
 
 ### Data Structures and Algorithms
+- Binary Indexed Tree (Fenwick Tree)
+- Game Theory
+- Graphs
+- Linked Lists
+  - linked_list
+  - stack
+- Mathematics
+  - assignment_problem
+- Recursion
+  - factorial
+  - fibonacci
+  - gcd
+  - nqueen
+  - string_permutation
+  - tower_of_hanoi
+- Searching
+  - linear_search
+  - binary_search
+- Segment Trees
+  - segment_trees
+  - lazy_propagation
+- Sorting
+  - merge_sort
+  - quick_sort
+- Trie
+  - trie
