@@ -3,3 +3,4 @@
 blob/
 *.class
 work/
+.DS_Store
