@@ -79,7 +79,7 @@ int main() {
 
         if(ans != "*") {
             ans += prefix;
-            for(string s: midStrings)
+            for(string& s: midStrings)
                 ans += s;
             ans += suffix;
         }
