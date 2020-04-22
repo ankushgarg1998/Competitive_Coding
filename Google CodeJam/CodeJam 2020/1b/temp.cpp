@@ -16,8 +16,7 @@ int main() {
     //     freopen("input.txt", "r", stdin);
     //     freopen("output.txt", "w", stdout);
     // #endif
-
-
+    cout<<-3%2;
 
     return 0;
 }
