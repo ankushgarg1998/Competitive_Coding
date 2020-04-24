@@ -13,14 +13,8 @@ lli power(lli a, lli p) { lli ans=1; while(p>0) { if(p&1) ans*=a; p>>=1; a*=a; }
 lli power(lli a, lli p, lli mod) { lli ans=1; while(p>0) { if(p&1) ans = (ans*a)%mod; p>>=1; a = (a*a)%mod; } return ans; }
 
 int main() {
-    string s = "asdf*asdf*asdf";
-    cout<<s.find_first_of("*")<<"\n";
-    cout<<s.find_last_of("*")<<"\n";
-    string k = s.substr(0, 0);
-    cout<<k<<"\n";
-    cout<<s.find_last_of("afd")<<"\n";
-    if(s.find_last_of("afd")) {
-        cout<<"perfect";
-    }
+    li x = 9;
+    string s = bitset<30>(x).to_string();
+    cout<<s<<" "<<s.size();
     return 0;
 }
