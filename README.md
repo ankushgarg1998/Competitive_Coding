@@ -10,7 +10,7 @@ For the same reason people write a diary/blog. It's like maintaining a photo alb
 
 # ⚔️ ANNUAL CONTESTS
 
-## ACM ICPC
+### ACM ICPC
 **YEAR: 2018 *(The Lannisters)***
 | **Year** | **Round**                      | **Ranks**                   |
 |----------|--------------------------------|-----------------------------|
@@ -18,61 +18,50 @@ For the same reason people write a diary/blog. It's like maintaining a photo alb
 | 2018     | Regionals: Kolkata-Kanpur Site | AIR: #55                    |
 | 2018     | Regionals: Amritapuri Site     | AIR: #211                   |
 
-## Codechef Snackdown
-**YEAR: 2018 *(The Lannisters)***
-- QUALIFIER (*Global Rank*: ***1***) -  ✔️ Qualified
-- ROUND 1-A (*Global Rank*: ***1***) -  ✔️ Qualified
-- PRE ELIMINAION ROUND (*Global Rank*: ***896***)  ➖ Eliminiated
 
-**YEAR: 2017 *(Radon)***
-- QUALIFIER (*Global Rank*: ***3101***) -  ✔️ Qualified
-- ROUND 1-A (*Global Rank*: ***3887***) -  ➖ Not Qualified
-- ROUND 1-B (*Global Rank*: ***1764***) -  ➖ Eliminiated
----
+### Codechef Snackdown
+**YEAR: 2018 *(The Lannisters)***, **YEAR: 2017 *(Radon)***
+| **Year** | **Round**             | **Global Rank** | Result          |
+|----------|-----------------------|-----------------|-----------------|
+| 2018     | Qualifier             | #1              | ✔️ Qualified     |
+| 2018     | Round 1-A             | #1              | ✔️ Qualified     |
+| 2018     | Pre Elimination Round | #896            | ➖ Eliminated    |
+| 2017     | Qualifier             | #3101           | ✔️ Qualified     |
+| 2017     | Round 1-A             | #3887           | ➖ Not Qualified |
+| 2017     | Round 1-B             | #1764           | ➖ Eliminated    |
 
-## Facebook Hacker Cup
+### Facebook Hacker Cup
 **YEAR: 2018**
 - QUALIFIER (*Global Rank*: ***769***) -  ✔️ Qualified
 - ROUND 1 (*Global Rank*: ***1989***) -  ✔️ Qualified
 - ROUND 2 (*Global Rank*: ***412***) -  ➖ Eliminiated  🔥 But won a T-Shirt for being in top 500.
 ---
 
-## Google Code Jam
+### Google Code Jam
+| **Year** | **Round** | **Global Rank** | Result          |
+|----------|-----------|-----------------|-----------------|
+| 2019     | Qualifier | #3869           | ✔️ Qualified     |
+| 2018     | Qualifier | #6251           | ✔️ Qualified     |
+| 2018     | Round 1-A | #4146           | ➖ Not Qualified |
+| 2018     | Round 1-C | #1473           | ✔️ Qualified     |
+| 2018     | Round 2   | #2296           | ➖ Eliminated    |
+| 2017     | Qualifier | #8372           | ✔️ Qualified     |
+| 2017     | Round 1   |                 | ➖ Eliminated    |
 
-**YEAR 2019**
-- QUALIFIER (*Global Rank*: ***3869***) - ✔️ Qualified
+### IEEE Xtreme
+**YEAR: 2019 *(HustleFluff)***, **YEAR: 2018 *(HustleFluff)***
+| **Year** | **Global Rank** | **All India Rank** |
+|----------|-----------------|--------------------|
+| 2019     | #276            | #26                |
+| 2018     | #469            | #44                |
 
-**YEAR: 2018**
-- QUALIFIER (*Global Rank*: ***6251***) -  ✔️ Qualified
-- ROUND 1-A (*Global Rank*: ***4146***) -  ➖ Not Qualified
-- ROUND 1-C (*Global Rank*: ***1473***) -  ✔️ Qualified
-- ROUND 2 (*Global Rank*: ***2296***) -  ➖ Eliminiated
 
-**YEAR: 2017**
-- QUALIFIER (*Global Rank*: ***8372***) -  ✔️ Qualified
-- ROUND 1  ➖ Eliminiated
----
-
-## IEEE Xtreme
-**YEAR: 2019 *(HustleFluff)***
-- Online Round
-    - *Global Rank*: ***276***
-    - *All India Rank*: ***26***
-
-**YEAR: 2018 *(HustleFluff)***
-- Online Round
-    - *Global Rank*: ***469***
-    - *All India Rank*: ***44***
----
-
-## InterviewBit CodersBit
-**YEAR: 2019**
-- College Round (*College Rank*: ***2***)
-
-**YEAR: 2018**
-- College Round (*College Rank*: ***2***)
-- Finale (*All India Rank*: ***373***)
----
+### InterviewBit CodersBit
+| **Year** | **Round**     | **Rank**         |
+|----------|---------------|------------------|
+| 2019     | College Round | College Rank: #2 |
+| 2018     | College Round | College Rank: #2 |
+| 2018     | Finale        | AIR: #373        |
 
 ## Other Contests
 - CodeChef
