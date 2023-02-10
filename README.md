@@ -8,7 +8,7 @@ For the same reason people write a diary/blog. It's like maintaining a photo alb
 
 <br>
 
-# 🦹🏻‍♂️ PROFILES
+## 🦹🏻‍♂️ PROFILES
 | **Website**  | **Profile**                                                           | **# Problems Solved** |
 |--------------|-----------------------------------------------------------------------|-----------------------|
 | LeetCode     | [126ankush](https://leetcode.com/126ankush/)                          | 46                    |
@@ -17,7 +17,9 @@ For the same reason people write a diary/blog. It's like maintaining a photo alb
 | CodeForces   | [SarcasticGeek](https://codeforces.com/profile/SarcasticGeek)         | 42                    |
 | SPOJ         | [ankushgarg1998](https://www.spoj.com/users/ankushgarg1998/)          | 20                    |
 
-# ⚔️ ANNUAL CONTESTS
+<br>
+
+## ⚔️ ANNUAL CONTESTS
 
 ### ACM ICPC
 **YEAR: 2018 *(The Lannisters)***
@@ -72,14 +74,14 @@ For the same reason people write a diary/blog. It's like maintaining a photo alb
 | 2018     | College Round | College Rank: #2 |
 | 2018     | Finale        | AIR: #373        |
 
-## Other Contests
+### Other Contests
 - CodeChef
 - CodeForces
 
 <br>
 
 
-# 👨🏻‍💻 PRACTICE WEBSITES
+## 👨🏻‍💻 PRACTICE WEBSITES
 <details>
 <summary>SPOJ</summary>
 
@@ -181,7 +183,7 @@ For the same reason people write a diary/blog. It's like maintaining a photo alb
 <details> 
 <summary>CodeChef CCDSAP</summary>
 
-### Foundation
+#### Foundation
 - Arrays
   - RAINBOWA
   - COPS
