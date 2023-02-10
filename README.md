@@ -31,11 +31,11 @@ For the same reason people write a diary/blog. It's like maintaining a photo alb
 | 2017     | Round 1-B             | #1764           | ➖ Eliminated    |
 
 ### Facebook Hacker Cup
-**YEAR: 2018**
-- QUALIFIER (*Global Rank*: ***769***) -  ✔️ Qualified
-- ROUND 1 (*Global Rank*: ***1989***) -  ✔️ Qualified
-- ROUND 2 (*Global Rank*: ***412***) -  ➖ Eliminiated  🔥 But won a T-Shirt for being in top 500.
----
+| **Year** | **Round** | **Global Rank** | **Result**                                                 |
+|----------|-----------|-----------------|------------------------------------------------------------|
+| 2018     | Qualifier | #769            | ✔️ Qualified                                                |
+| 2018     | Round 1   | #1989           | ✔️ Qualified                                                |
+| 2018     | Round 2   | #412            | ➖ Eliminiated. 🔥  But won a T-Shirt for being in top 500.  |
 
 ### Google Code Jam
 | **Year** | **Round** | **Global Rank** | Result          |
