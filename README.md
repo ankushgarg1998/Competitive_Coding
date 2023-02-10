@@ -8,6 +8,15 @@ For the same reason people write a diary/blog. It's like maintaining a photo alb
 
 <br>
 
+# 🦹🏻‍♂️ PROFILES
+| **Website**  | **Profile**                                                           | **# Problems Solved** |
+|--------------|-----------------------------------------------------------------------|-----------------------|
+| LeetCode     | [126ankush](https://leetcode.com/126ankush/)                          | 46                    |
+| CodeChef     | [ankushgarg1998](https://www.codechef.com/users/ankushgarg1998)       | 103                   |
+| InterviewBit | [ankushgarg1998](https://www.interviewbit.com/profile/ankushgarg1998) | 77                    |
+| CodeForces   | [SarcasticGeek](https://codeforces.com/profile/SarcasticGeek)         | 42                    |
+| SPOJ         | [ankushgarg1998](https://www.spoj.com/users/ankushgarg1998/)          | 20                    |
+
 # ⚔️ ANNUAL CONTESTS
 
 ### ACM ICPC
